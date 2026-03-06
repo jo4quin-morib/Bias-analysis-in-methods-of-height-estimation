@@ -1,10 +1,12 @@
 # ==============================================================================
+# ==============================================================================
+#
 # THESIS: BIAS ANALYSIS IN SKELETAL STATURE ESTIMATION
 # Comparative Evaluation of Osteometric Methods — Goldman Skeletal Collection
 #
-# Author:   [Your Name]
+# Author:   [Joaquin Moreno Ibarra]
 # Date:     2025
-# Contact:  [Your institutional email]
+# Contact:  [jmoreno2017@udec.cl]
 #
 # Description:
 #   This script applies eleven stature estimation methods (Pearson 1899 through
@@ -15,6 +17,7 @@
 #
 # Input:  goldman_dataset.xlsx
 # Output: CSV tables, PNG figures
+#
 # ==============================================================================
 
 
