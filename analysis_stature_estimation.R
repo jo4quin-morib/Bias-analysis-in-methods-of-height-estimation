@@ -163,8 +163,8 @@ est_belmonte <- function(hueso, sexo_num, longitud_mm) {
 }
 
 # ------------------------------------------------------------------------------
-# Ross (2011)
-# Reference population: South African (mixed ancestry)
+# Ross y Manneschi (2011)
+# Reference population: Sub actual Chilean population
 # ------------------------------------------------------------------------------
 est_ross <- function(hueso, sexo_num, longitud_mm) {
   if (hueso == "p_LMH") {
